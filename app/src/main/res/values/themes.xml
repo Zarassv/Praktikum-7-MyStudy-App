@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Praktik7MyStudyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/warna_aksen</item>
+        <item name="colorOnPrimary">@color/warna_teks_tombol</item>
+        <item name="android:windowBackground">@color/warna_latar</item>
+        <item name="android:navigationBarColor">@color/warna_permukaan</item>
+    </style>
+</resources>
